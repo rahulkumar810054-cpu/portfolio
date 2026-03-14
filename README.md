@@ -233,7 +233,7 @@ github.com/rahulkumar810054-cpu
 <p>
 LinkedIn:  
 <a href="#">
-Add your LinkedIn profile link
+https://www.linkedin.com/in/rahul-kumar-22aa37229
 </a>
 </p>
 
