@@ -219,11 +219,30 @@ Focused on developing analytical thinking, data cleaning and visualization skill
 
 <div class="card contact">
 
-<p>Email: rahulkumar810054@gmail.com</p>
+<p>📧 <strong>Email:</strong> rahulkumar810054@gmail.com</p>
 
-<p>Phone: +91 8130480040</p>
+<p>📞 <strong>Phone:</strong> +91 8130480040</p>
 
 <p>
+🐙 <strong>GitHub:</strong>
+<a href="https://github.com/rahulkumar810054-cpu" target="_blank">
+github.com/rahulkumar810054-cpu
+</a>
+</p>
+
+<p>
+💼 <strong>LinkedIn:</strong>
+<a href="https://www.linkedin.com/in/rahulkumar810054" target="_blank">
+linkedin.com/in/rahulkumar810054
+</a>
+</p>
+
+<p>
+📄 <strong>Resume:</strong>
+<a href="#" target="_blank">Download Resume</a>
+</p>
+
+</div>
 GitHub:  
 <a href="https://github.com/rahulkumar810054-cpu">
 github.com/rahulkumar810054-cpu
