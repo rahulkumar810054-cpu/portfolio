@@ -243,20 +243,6 @@ linkedin.com/in/rahulkumar810054
 </p>
 
 </div>
-GitHub:  
-<a href="https://github.com/rahulkumar810054-cpu">
-github.com/rahulkumar810054-cpu
-</a>
-</p>
-
-<p>
-LinkedIn:  
-<a href="#">
-https://www.linkedin.com/in/rahul-kumar-22aa37229
-</a>
-</p>
-
-<a class="btn" href="#">Download Resume</a>
 
 </div>
 
